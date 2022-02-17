@@ -93,7 +93,7 @@ const startApp = async () => {
       console.log('everything went fine')
 
     } else {
-      console.log('Not working, try again!');
+      console.log('Not working, try again!')
     };
   }
 
